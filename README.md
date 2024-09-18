@@ -29,7 +29,7 @@ The system includes features like reset, pause, resume, mode toggle, and time ad
    2. Green LED for countdown mode.
 
 # Hardware Components: 
-1. Microcontroller: ATmega32
+1. Microcontroller: ATmega32.
    
 2. Display: Six multiplexed seven-segment displays (common anode), driven by a 7447 BCD to seven-segment decoder connected to PORTC.
    

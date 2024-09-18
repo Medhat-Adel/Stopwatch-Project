@@ -31,24 +31,43 @@ The system includes features like reset, pause, resume, mode toggle, and time ad
 
 # Hardware Components: 
 1. Microcontroller: ATmega32
+   
 2. Display: Six multiplexed seven-segment displays (common anode), driven by a 7447 BCD to seven-segment decoder connected to PORTC.
+   
 3. Push Buttons:
+   
   • Reset: Connected to PD2 (INT0) with an internal pull-up resistor.
+  
   • Pause: Connected to PD3 (INT1) with an external pull-up resistor.
+
   • Resume: Connected to PB2 (INT2) with an internal pull-up resistor.
+  
   • Mode Toggle: Connected to PB7.
+  
   • Hour Adjustment:
+  
       • Increment Hours: Connected to PB1 with an internal pull-up resistor.
+      
       • Decrement Hours: Connected to PB0 with an internal pull-up resistor.
+      
   • Minute Adjustment:
+
       • Increment Minutes: Connected to PB4 with an internal pull-up resistor.
+      
       • Decrement Minutes: Connected to PB3 with an internal pull-up resistor.
+      
   • Second Adjustment:
+  
       • Increment Seconds: Connected to PB6 with an internal pull-up resistor.
-      • Decrement Seconds: Connected to PB5 with an internal pull-up resistor.
+      
+      • Decrement Seconds: Connected to PB5 with an internal pull-up resistor
+      
 4. Alarm/Buzzer: Connected to PD0, activated when the countdown reaches zero.
+
 5. LED Indicators:
+
   • Red LED for increment mode (connected to PD4).
+
   • Yellow LED for countdown mode (connected to PD5).
 
 # Operation Description: 

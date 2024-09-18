@@ -26,8 +26,8 @@ The system includes features like reset, pause, resume, mode toggle, and time ad
 
 • LED Indicators: Indicates the current mode of the stopwatch:
 
-   1. Red LED for increment mode.
-   2. Green LED for countdown mode.
+/   1. Red LED for increment mode.
+ /  2. Green LED for countdown mode.
 
 # Hardware Components: 
 1. Microcontroller: ATmega32

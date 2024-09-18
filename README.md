@@ -1,7 +1,7 @@
 
 # Stopwatch with Dual Mode (Increment and Countdown) Using ATmega32 and Seven-Segment Display.
 
-![Screenshot 2024-09-16 021000](https://github.com/user-attachments/assets/fbeee9a2-ece6-4823-9811-812835d724a0)
+![Stopwatch - Proteus 8 Professional - Schematic Capture 9_18_2024 2_38_36 PM](https://github.com/user-attachments/assets/aad5001d-4a82-4795-8f34-9bd347674451)
 
 # Project Overview: 
 This project aims to design and implement a digital stopwatch using the ATmega32 microcontroller and six multiplexed seven-segment displays (common anode). The stopwatch offers two operational modes:

@@ -45,21 +45,15 @@ The system includes features like reset, pause, resume, mode toggle, and time ad
   • Mode Toggle: Connected to PB7.
   
   • Hour Adjustment:
-  
       • Increment Hours: Connected to PB1 with an internal pull-up resistor.
-      
       • Decrement Hours: Connected to PB0 with an internal pull-up resistor.
       
   • Minute Adjustment:
-
       • Increment Minutes: Connected to PB4 with an internal pull-up resistor.
-      
       • Decrement Minutes: Connected to PB3 with an internal pull-up resistor.
       
   • Second Adjustment:
-  
-      • Increment Seconds: Connected to PB6 with an internal pull-up resistor.
-      
+      • Increment Seconds: Connected to PB6 with an internal pull-up resistor. 
       • Decrement Seconds: Connected to PB5 with an internal pull-up resistor
       
 4. Alarm/Buzzer: Connected to PD0, activated when the countdown reaches zero.

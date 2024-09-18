@@ -1,5 +1,5 @@
 
-# Stopwatch with Dual Mode (Increment and Countdown) Using ATmega32 and Seven-Segment Display.
+# Digital Stopwatch with Count Modes.
 
 ![Stopwatch - Proteus 8 Professional - Schematic Capture 9_18_2024 2_38_36 PM](https://github.com/user-attachments/assets/aad5001d-4a82-4795-8f34-9bd347674451)
 

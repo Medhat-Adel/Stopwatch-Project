@@ -13,12 +13,19 @@ The system includes features like reset, pause, resume, mode toggle, and time ad
 
 # Features: 
 • Reset Function: Resets the time to zero in both modes.
+
 • Pause Function: Pauses the counting, allowing the stopwatch to hold its current value.
+
 • Resume Function: Resumes counting from the paused time.
+
 • Mode Toggle: Switches between increment mode and countdown mode.
+
 • Time Adjustment: Allows the user to adjust the hours, minutes, and seconds when in countdown mode.
+
 • Alarm Function: Triggers a buzzer when the countdown reaches zero.
+
 • LED Indicators: Indicates the current mode of the stopwatch:
+
    1. Red LED for increment mode.
    2. Green LED for countdown mode.
 
